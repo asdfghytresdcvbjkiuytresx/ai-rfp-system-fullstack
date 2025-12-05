@@ -1,1 +1,0 @@
-# ai-rfp-system-fullstack
